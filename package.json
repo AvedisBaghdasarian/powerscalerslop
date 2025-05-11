@@ -1,0 +1,11 @@
+{
+  "name": "powerscaler-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev:frontend": "cd packages/frontend && npm run dev"
+  }
+} 
