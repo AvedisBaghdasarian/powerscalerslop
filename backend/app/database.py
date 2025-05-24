@@ -53,4 +53,5 @@ class Database:
             logger.error(f"Failed to retrieve battle history: {str(e)}", exc_info=True)
             raise
 
-db = Database() 
+# Comment out or remove the direct instantiation of db at module level
+# db = Database() 
