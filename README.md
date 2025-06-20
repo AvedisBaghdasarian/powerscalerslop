@@ -1,3 +1,5 @@
+this is an ai slop project I used to test the capabilities of cursor. Result: this shit creates more work than it alleviates
+
 # PowerScaler Battle Arena
 
 A web application that determines the winner of fictional character battles using AI analysis.
